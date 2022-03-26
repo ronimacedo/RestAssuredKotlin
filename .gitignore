@@ -1,0 +1,7 @@
+# Ignora a pasta de build
+/build/
+/.gradle/
+/gradle
+
+# Ignora arquivos do IDE
+/.idea/
